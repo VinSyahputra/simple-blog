@@ -2,6 +2,14 @@
 @section('container')
     <h2>Post by {{ auth()->user()->name }}</h2>
     <div class="table-responsive">
+      @if (session()->has('success'))
+      <div class="alert alert-success" role="alert">
+        {{ session('success') }}
+      </div>
+      @endif
+        <div class="d-flex justify-content-end p-2">
+            <a href="/dashboard/posts/create" class="btn btn-primary py-2 "><span data-feather="plus" class="align-text-bottom"></span> new post</a>
+        </div>
         <table class="table table-striped table-sm">
           <thead>
             <tr>
