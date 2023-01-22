@@ -34,13 +34,14 @@ The simple blog is a web application that allows users to create and manage thei
 
 ## Interface
  <p align="center">
-    <img src="/readme-img/BLOG-1.jpg" alt="img-1" style="width: 80%; height: auto;"/> 
-    <img src="/readme-img/BLOG-2.jpg" alt="img-2" style="width: 80%; height: auto;"/>  
-    <img src="/readme-img/BLOG-3.jpg" alt="img-3" style="width: 80%; height: auto;"/>  
-    <img src="/readme-img/BLOG-4.jpg" alt="img-4" style="width: 80%; height: auto;"/> 
-    <img src="/readme-img/BLOG-5.jpg" alt="img-5" style="width: 80%; height: auto;"/>  
-    <img src="/readme-img/BLOG-6.jpg" alt="img-6" style="width: 80%; height: auto;"/>  
-    <img src="/readme-img/BLOG-7.jpg" alt="img-7" style="width: 80%; height: auto;"/>  
+    <img src="/readme-img/img-1.jpg" alt="img-1" style="width: 40%; height: auto;"/> 
+    <img src="/readme-img/img-2.jpg" alt="img-2" style="width: 40%; height: auto;"/>  
+    <img src="/readme-img/img-3.jpg" alt="img-3" style="width: 40%; height: auto;"/>  
+    <img src="/readme-img/img-4.jpg" alt="img-4" style="width: 40%; height: auto;"/> 
+    <img src="/readme-img/img-5.jpg" alt="img-5" style="width: 40%; height: auto;"/>  
+    <img src="/readme-img/img-6.jpg" alt="img-6" style="width: 40%; height: auto;"/>  
+    <img src="/readme-img/img-7.jpg" alt="img-7" style="width: 40%; height: auto;"/>  
+    <img src="/readme-img/img-8.jpg" alt="img-7" style="width: 40%; height: auto;"/>  
  </p>
  
 ## License
