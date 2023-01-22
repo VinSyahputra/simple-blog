@@ -126,7 +126,7 @@ class DashboardPostController extends Controller
         $validatedData['excerpt'] = Str::limit(strip_tags($request->body), 100, '...');
 
         Post::where('id', $post->id)->update($validatedData);
-        return redirect('/dashboard/posts')->with('success', 'new post successfully updated');
+        return redirect('/dashboard/posts')->with('success', 'post successfully updated');
     }
 
     /**
