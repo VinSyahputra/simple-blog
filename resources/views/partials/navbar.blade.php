@@ -1,7 +1,7 @@
 
     <nav class="navbar navbar-dark navbar-expand-lg bg-primary ">
         <div class="container">
-            <a class="navbar-brand" href="#">
+            <a class="navbar-brand" href="/">
                 <img src="/img/rose.png" alt="Logo" width="30" height="24" class="d-inline-block align-text-top">
             </a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
